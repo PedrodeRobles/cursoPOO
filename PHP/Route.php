@@ -1,0 +1,8 @@
+<?php
+
+class Route
+{
+    public $id;
+    public $end;
+    public $init;
+}
